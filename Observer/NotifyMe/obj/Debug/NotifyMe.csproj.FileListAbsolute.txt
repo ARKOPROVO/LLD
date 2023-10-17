@@ -1,0 +1,7 @@
+C:\Projects\LLD-Design Patterns\Observer\NotifyMe\bin\Debug\NotifyMe.exe.config
+C:\Projects\LLD-Design Patterns\Observer\NotifyMe\bin\Debug\NotifyMe.exe
+C:\Projects\LLD-Design Patterns\Observer\NotifyMe\bin\Debug\NotifyMe.pdb
+C:\Projects\LLD-Design Patterns\Observer\NotifyMe\obj\Debug\NotifyMe.csproj.AssemblyReference.cache
+C:\Projects\LLD-Design Patterns\Observer\NotifyMe\obj\Debug\NotifyMe.csproj.CoreCompileInputs.cache
+C:\Projects\LLD-Design Patterns\Observer\NotifyMe\obj\Debug\NotifyMe.exe
+C:\Projects\LLD-Design Patterns\Observer\NotifyMe\obj\Debug\NotifyMe.pdb
